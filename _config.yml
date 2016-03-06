@@ -1,0 +1,28 @@
+name: capetown
+favicon: null
+layout_spectrum: 0.6348737790249288
+typography_spectrum: 0.1656319652684033
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5311142667196691
+  lightness: 0.06802123156376183
+  saturation: 0.8659974948968738
+  rhythmicContrast: 0.38788837753236294
+purpose: []
